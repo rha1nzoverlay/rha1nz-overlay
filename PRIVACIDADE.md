@@ -20,8 +20,8 @@ histórico de navegação nem imagens da tela.
 
 ## O que fica só no seu computador
 
-As suas configurações, builds, rotina do dia e a licença ficam numa pasta do próprio programa (versão baixada) ou em
-`%LOCALAPPDATA%\Rha1nz Overlay` (versão da Microsoft Store). As leituras da tela do jogo são feitas na hora, no seu
+As suas configurações, builds, rotina do dia e a licença ficam numa pasta do próprio programa (versão baixada) ou na pasta de dados que o
+Windows reserva para o programa (versão da Microsoft Store, apagada ao desinstalar). As leituras da tela do jogo são feitas na hora, no seu
 computador, e não são guardadas nem enviadas.
 
 ## Pagamentos
@@ -68,8 +68,8 @@ messages, browsing history or screen images.
 
 ## What stays only on your computer
 
-Your settings, builds, daily routine and license are kept in the program folder (downloaded version) or in
-`%LOCALAPPDATA%\Rha1nz Overlay` (Microsoft Store version). Game screen reading happens on the spot, on your computer,
+Your settings, builds, daily routine and license are kept in the program folder (downloaded version) or in the data folder
+Windows reserves for the program (Microsoft Store version, deleted on uninstall). Game screen reading happens on the spot, on your computer,
 and is never stored or sent.
 
 ## Payments
